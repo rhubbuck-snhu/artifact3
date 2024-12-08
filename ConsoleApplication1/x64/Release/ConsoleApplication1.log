@@ -1,0 +1,11 @@
+﻿  AVLNode.cpp
+C:\Users\rhubb\source\repos\ConsoleApplication1\ConsoleApplication1\AVLNode.cpp(34,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  AVLTree.cpp
+  main.cpp
+  CourseLoader.cpp
+  functions.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 403 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\rhubb\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

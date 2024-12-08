@@ -1,0 +1,3 @@
+﻿  functions.cpp
+C:\Users\rhubb\source\repos\ConsoleApplication1\ConsoleApplication1\functions.cpp(459,16): warning C4101: 'stmt': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\rhubb\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
